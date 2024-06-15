@@ -1,2 +1,2 @@
 # LogisticRegression
-Email Spam
+Email Spam, Dự đoán ngày mai mưa hay không
